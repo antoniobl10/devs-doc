@@ -1,0 +1,36 @@
+---
+title: Welcome to Starlight
+description: Get started building your docs site with Starlight.
+template: splash
+hero:
+  tagline: Documentación sobre diferentes lenguajes de programación y frameworks
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Empezar
+      link: /guias/empezar/
+      icon: right-arrow
+      variant: primary
+    - text: Lee mi documentación
+      link: https://starlight.astro.build
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Next steps
+
+<CardGrid stagger>
+	<Card title="Contenido " icon="pencil">
+		Edit `src/content/docs/index.mdx` to see this page change.
+	</Card>
+	<Card title="Documentación de calidad" icon="add-document">
+		Todo lo qué aprendo como programador, lo vuelvo aquí
+	</Card>
+	<Card title="Configuración constante" icon="setting">
+		Edito este sitio con frecuencia
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Sí quieres dejarme alguna consulta, escríbeme [a mi correo](mailto:antoniblac.aba@gmail.com).
+	</Card>
+</CardGrid>
