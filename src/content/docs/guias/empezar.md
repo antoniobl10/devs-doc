@@ -1,17 +1,23 @@
 ---
-title: Documentación
+title: Hacking y software
 description: Todo lo que he aprendido en mi camino profesional
 ---
 
 Cómo desarrollador de software, la importancia de recopilar todo lo aprendido es esencial para afianzar los conomientos
 
 - Todo lo que he aprendido en mi camino profesional
+- Cómo desarollo y comienzo mis proyectos personales
 - Errores cometidos
 
+Como principiante en el mundo de la ciberseguridad y el pentesting me gustaría recopilar todo lo que voy aprendiendo en esta web.
 
-## Temas principales
+## Hacking
+Hablo sobre Linux
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+
+## Desarrollo de software
+Cómo buen programador qué soy, publico artículos qué me han ayudado a desarrollar software en mi experiencia tanto laboral como pequeños proyectos personales que he ido realizando.
+
 
 ### Front-end
 - <a href="/angular/inicio">Angular</a> 
@@ -27,5 +33,7 @@ Cómo desarrollador de software, la importancia de recopilar todo lo aprendido e
 ### BBDD
 - Supabase
 - SQL Server
+
+
 
 
